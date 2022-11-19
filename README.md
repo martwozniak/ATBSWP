@@ -1,4 +1,5 @@
 # Automate the Boring Stuff with Python
 
-url: https://automatetheboringstuff.com/# ATBSWP
+url: https://automatetheboringstuff.com/
+
 # ATBSWP
